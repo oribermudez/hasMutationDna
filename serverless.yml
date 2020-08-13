@@ -1,6 +1,6 @@
 # Welcome to Serverless!
 service: hasmutationdna
-app: product-api
+app: hasmutationdna-api
 
 plugins:
   - serverless-offline

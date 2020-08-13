@@ -14,7 +14,7 @@ You must have Node.js and serverless installed on your terminal  <br />
 ### Installing
 
 1.- Clone the repo and install the node modules. <br />
-Your can do that by typing `npm i` whithin the project folder on your terminal. <br />
+You can do that by typing `npm i` whithin the project folder on your terminal. <br />
 
 2.- I have created a test user in order for you to play with the app:
 
